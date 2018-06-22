@@ -1,0 +1,5 @@
+v1 -> pop 100; it 400;  ls_len  5  rates 0.05 0.7 0.25
+v2 -> pop 100; it 1000; ls_len 5   rates 0.05 0.7 0.25
+v3 -> pop 100; it 1000; ls_len 10  rates 0.05 0.7 0.25
+v4 -> pop 200; it 600;  ls_len 10; rates 0.05 0.7 0.25
+v5 -> pop 200; it 800;  ls_len 10  rates 0.10 0.7 0.20
